@@ -39,4 +39,4 @@ HTML5, CSS3 (아이콘만 Font Awesome CDN, 그 외 프레임워크·전처리�
 
 ## 만든 사람
 
-**Jigwan Joe** — [@crushonyou2](https://github.com/crushonyou2) · jigwan.joe@gmail.com
+**Jigwan Joe** — [@jgjoe](https://github.com/jgjoe) · jigwan.joe@gmail.com
